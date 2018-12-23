@@ -19,3 +19,5 @@ for city, city_info in cities.items():
     print("Name: " + city)
     for key, value in city_info.items():
         print(key + " : " + str(value))
+    print('\n')
+
