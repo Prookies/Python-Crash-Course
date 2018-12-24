@@ -1,0 +1,6 @@
+people=input("How many people?")
+people=int(people)
+if people >= 8:
+    print("There are't empty table")
+else:
+    print("There is a empty table")
